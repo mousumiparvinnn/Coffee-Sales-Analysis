@@ -27,4 +27,7 @@ Target high-value buyers,
 Improve low-sales regions,
 Monitor trends regularly.
 
+<img width="954" height="533" alt="Screenshot (195)" src="https://github.com/user-attachments/assets/73259949-7fed-4236-a9bb-c81388b25aaa" />
+
+
 
